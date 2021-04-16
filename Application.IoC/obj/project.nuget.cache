@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxdC0KA2SOEDj8Rir3I+LiyBsPOkFqW5y7iormZFHaZj1p31vsKBNcPB6iHTATDc78X4nccIb/3qV0tvN/AFZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows\\Desktop\\ioasys\\ioasys_imdb\\Application.IoC\\Application.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.deps.json
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CopyComplete
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.deps.json
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csprojAssemblyReference.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfoInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfo.cs
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CopyComplete
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.deps.json
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csprojAssemblyReference.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfoInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfo.cs
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CopyComplete
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.deps.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.AssemblyInfo.cs
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.csproj.CopyComplete
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Application.IoC\obj\Debug\netcoreapp3.1\Application.IoC.pdb

@@ -1,0 +1,387 @@
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Local.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Application.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Local.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\src\personal\.net\oficial\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Local.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\WebApi.xml
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.Interfaces.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.IoC.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.IoC.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\bin\Debug\netcoreapp3.1\Infrastructure.Interfaces.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.xml
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.AdministratorController.Get">
+             <summary>
+             Get a list of administrator users.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /Administrator
+            
+             </remarks>
+             <returns>Collection of admins.</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.AdministratorController.Get(System.Int32)">
+             <summary>
+             Get a admin by id.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /Administrator/1
+            
+             </remarks>
+             <returns>Collection of admin.</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Get">
+             <summary>
+             Get a list of movies.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /Movie
+            
+             </remarks>
+             <returns>Collection of movie.</returns>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Post(Domain.Dto.MovieFilters)">
+             <summary>
+             Get a list of movies with filter and pagination.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Post /Movie/getWithPage
+                 {
+             
+                     "diretor": "Anthony",
+                     "genre": "",
+                     "name": "",
+                     "actor": "",
+                     "page": 1,
+                     "itemsPerPage":1   
+                 }
+             </remarks>
+             <returns>Collection of movie.</returns>
+             <params>filters</params>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Get(System.Int32)">
+             <summary>
+             Get a movie by id.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /Movie/1
+            
+             </remarks>
+             <returns>Collection of movie.</returns>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Post(Domain.Entities.Movie)">
+             <summary>
+             Create a Movie.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Movie
+                 {
+                   "name": "Vingadores Ultimato"
+                   "description":"Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de ...",
+                   "directorId": 1,
+                   "genreId": 1
+                 }
+             </remarks>
+             <param name="command"></param>
+             <returns>Movie created.</returns>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Post(Domain.ViewModels.VoteModel)">
+             <summary>
+             post a Vote.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Movie/Vote
+                 {
+                   "userId": 1,
+                   "movieId": 7,
+                   "rate": 4
+                 }
+             </remarks>
+             <param name="vote"></param>
+             <returns>Ok</returns>
+             <response code="200">Vote is created.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Put(Domain.Entities.Movie)">
+             <summary>
+             Update a Movie.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Movie
+                 {
+                    
+                    "id": 1,
+                    "name": "Update Name",
+                    "description": "string",
+                    "directorId": 1,
+                    "genreId": 2
+                    
+                 }
+             </remarks>
+             <param name="command"></param>
+             <returns>Ok</returns>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.MovieController.Delete(System.Int32)">
+             <summary>
+             Remove a Movie.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Delete /Movie/1
+            
+             </remarks>
+             <param name="id"></param>
+             <returns>Ok</returns>
+             <response code="200">A collection of movies.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.TokenController.Authenticate(Domain.Dto.AuthFilter)">
+             <summary>
+             generater token
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST api/v1/Home/login
+                 {
+                     "email": "fulano@ioasys.com",
+                     "password": "ioasystest"
+                 }
+            
+             </remarks>
+             <param name="filter"></param>
+             <returns>return a token.</returns>
+             <response code="200">return a token.</response>
+             <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Post(Domain.Entities.User)">
+             <summary>
+             Create a User.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /User
+                 {
+                   "name": "Usuário Teste 1",
+                   "lastName": "Fulano",
+                   "email": "fulano@ioasys.com",
+                   "password": "ioasystest",
+                   "flagAdmin": false,
+                   "flagActive": true
+                 }
+            
+             </remarks>
+             <param name="command"></param>
+             <returns>User created.</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Put(Domain.Entities.User)">
+             <summary>
+             Update a User.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /User
+                 {
+                   "name": "Usuário Teste 1",
+                   "lastName": "Fulano",
+                   "email": "fulano@ioasys.com",
+                   "password": "ioasystest",
+                   "flagAdmin": false,
+                   "flagActive": true
+                 }
+            
+             </remarks>
+             <param name="command"></param>
+             <returns>Ok</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Delete(System.Int32)">
+             <summary>
+             Inativate a User.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 Delete /User/1
+            
+             </remarks>
+             <param name="id"></param>
+             <returns>Ok</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Get">
+             <summary>
+             Get a list of users.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /User
+            
+             </remarks>
+             <returns>Collection of user.</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+        <member name="M:WebApi.Controllers.UserController.Get(System.Int32)">
+             <summary>
+             Get a user by id.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /User/1
+            
+             </remarks>
+             <returns>Collection of user.</returns>
+             <response code="200">A collection of users.</response>
+             <response code="500">Internal server error.</response>
+             <response code="404">Not Found.</response>
+        </member>
+    </members>
+</doc>

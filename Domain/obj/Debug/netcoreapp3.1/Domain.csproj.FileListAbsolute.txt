@@ -1,0 +1,46 @@
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\ProjetoMarquesSoftware\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\src\personal\.net\teste 2\ioasys.imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\src\personal\.net\oficial\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Windows\Desktop\ioasys\ioasys_imdb\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
